@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542690999 source:c:\users\edgar\documents\universsidas\programacion 1 2do cuatri\practico integrador 2do cuatri\practico integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TDAatleta.h"
+	"lista_atleta.h"
+
+1542689824 c:\users\edgar\documents\universsidas\programacion 1 2do cuatri\practico integrador 2do cuatri\practico integrador\tdaatleta.h
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+
+1542685633 c:\users\edgar\documents\universsidas\programacion 1 2do cuatri\practico integrador 2do cuatri\practico integrador\lista_atleta.h
+	"TDAatleta.h"
+
